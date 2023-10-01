@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BookingUi/static/css/main.0416d9ce.css",
+    "main.js": "/BookingUi/static/js/main.a1c18e4a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BookingUi/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img2.png": "/BookingUi/static/media/img2.bf583ff821e755c7f796.png",
+    "static/media/img5.png": "/BookingUi/static/media/img5.86446f31e8742381118c.png",
+    "static/media/rajsthan.png": "/BookingUi/static/media/rajsthan.9fb0e55852f6b9d88c1d.png",
+    "static/media/up.png": "/BookingUi/static/media/up.febcf4f7c273d886dad2.png",
+    "static/media/img3.png": "/BookingUi/static/media/img3.ed6b8a2b6f4b07c2df48.png",
+    "static/media/hotels.png": "/BookingUi/static/media/hotels.b6ca20e5f1a1cb18d3a0.png",
+    "static/media/img4.png": "/BookingUi/static/media/img4.9b55a439fd99a3660681.png",
+    "static/media/beach.png": "/BookingUi/static/media/beach.c1eb529158a202f897dd.png",
+    "static/media/restrorant.png": "/BookingUi/static/media/restrorant.811b3e1d103ac0a1b6f2.png",
+    "static/media/newDelhi.png": "/BookingUi/static/media/newDelhi.1d8ed868f1e3c66662c5.png",
+    "static/media/homestay.png": "/BookingUi/static/media/homestay.a1fa10667a593ba14a2b.png",
+    "static/media/resort.png": "/BookingUi/static/media/resort.117332d4e85240a0f9f7.png",
+    "index.html": "/BookingUi/index.html",
+    "main.0416d9ce.css.map": "/BookingUi/static/css/main.0416d9ce.css.map",
+    "main.a1c18e4a.js.map": "/BookingUi/static/js/main.a1c18e4a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BookingUi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0416d9ce.css",
+    "static/js/main.a1c18e4a.js"
+  ]
+}
